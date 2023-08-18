@@ -1,4 +1,4 @@
-
+##input weight of the watermelon
 x = int(input())
 if x==2:
     print("NO")
